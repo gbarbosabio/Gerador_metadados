@@ -32,3 +32,8 @@ Passo 4: Apertar o botão "Run App" no RStudio
 Para mais formas de abrir o Shiny APP por favor consultar link: <h>https://shiny.rstudio.com/tutorial/written-tutorial/lesson7/<h>
   
 O **Gerador de metadados experimentais** Shiny APP foi desenvolvido por **Guilherme Oliveira Barbosa** e está sob a Licença **MIT**
+  
+Se você usar o aplicativo, por favor cite:
+  
+  <a href="https://zenodo.org/badge/latestdoi/523364617"><img src="https://zenodo.org/badge/523364617.svg" alt="DOI"></a>
+
